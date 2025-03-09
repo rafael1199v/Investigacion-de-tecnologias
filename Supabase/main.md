@@ -4,7 +4,7 @@
 
 Supabase es una plataforma de backend como servicio (BaaS) que proporciona una alternativa de código abierto a *Firebase*. Se basa en **PostgreSQL** y ofrece herramientas para autenticación, almacenamiento, **APIs** en tiempo real y más.
 
-![This is an alt text.](/images/supabase-logo-vector.png "Logo de Supabase.")
+![This is an alt text.](./images/supabase-logo-vector.png "Logo de Supabase.")
 
 ## Diferencias a Firebase?
 
