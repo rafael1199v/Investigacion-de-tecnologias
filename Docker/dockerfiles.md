@@ -29,7 +29,7 @@ La instrucción ```FROM``` especifica la base de la imagen de la cual se esta co
 ## Comentarios
 BuildKit trata a las lineas que comienzan con ```#``` como un comentario, a menos de que la linea es una directiva parser valida.
 
-```docker
+```Dockerfile
 # Comentario
 RUN echo 'hello-world'
 ```
