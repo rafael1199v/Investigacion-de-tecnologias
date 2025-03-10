@@ -16,6 +16,14 @@ Docker puede construir imagenes directamente de leer instrucciones de un Dockerf
 | SHELL       | Configurar el shell por default de la imagen  |
 
 ## Formato
+El formato de un Dockerfile es:
+```
+INSTRUCCION argumentos
+```
+Las instrucciones no distinguen entre mayúsculas o minúsculas.
+
+#### Importante
+Docker ejecuta las instrucciones en el orden del Dockerfile. Un Dockerfile **debe comenzar con una instrucción ```FROM```**.  
 La instrucción ```FROM``` especifica la base de la imagen de la cual se esta construyendo. Esta instrucción solo puede ser precedida por uno o mas instrucciones ```ARG```
 
 ## Comentarios
