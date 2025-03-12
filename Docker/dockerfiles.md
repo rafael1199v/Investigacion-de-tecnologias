@@ -33,4 +33,3 @@ BuildKit trata a las lineas que comienzan con ```#``` como un comentario, a meno
 # Comentario
 RUN echo 'hello-world'
 ```
-
