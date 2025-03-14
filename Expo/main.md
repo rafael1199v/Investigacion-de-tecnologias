@@ -2,7 +2,7 @@
 
 Este repositorio contiene todo lo necesario para aprender a usar e implementar **Expo Router**, una herramienta poderosa para la navegación en aplicaciones React Native y web.
 
-![This is an alt text.](/images/ExpoRouter.png)
+![This is an alt text.](./images/ExpoRouter.png)
 
 ---
 
